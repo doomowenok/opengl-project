@@ -1,0 +1,26 @@
+# Build folders
+Debug/
+Release/
+x64/
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore per-user settings
+*.vcxproj.user
+
+# Ignore generated files (if using CMake)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore logs and temp files
+*.log
+*.tmp
